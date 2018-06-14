@@ -4,7 +4,7 @@ on the telegram.ext bot framework.
 This program is dedicated to the public domain under the CC0 license.
 """
 import pyowm
-API_key_weather = "4b8c4fedb3eb01be9238d9cf65ba081c"
+API_key_weather = "your token"
 # получаем данные о погоде
 # и также проверяем правильно ли ввели мы название города
 def get_data_weather(sity):
